@@ -1,4 +1,5 @@
 #Uses NYC DOIT's Gecoder API to retrieve the latitiude and longitude from an address
+###Need to add tryCatch
 
 library(RCurl)
 library(RJSONIO)
@@ -33,7 +34,9 @@ geocode <- function(houseNumber,
                                           app_id=app_id,
                                           app_key=app_key)),collapse="")
                      )
-    Latitude<-data$address$latitude
-    Longitude<-data$address$longitude
-    return(c(Latitude,Longitude))
+      Latitude <-data$address$latitude  
+      Longitude<-data$address$longitude
+      return(c(Latitude,Longitude))
 }
+
+geocode(houseNumber=100,street="West 113th Street",borough="Manhattan")
