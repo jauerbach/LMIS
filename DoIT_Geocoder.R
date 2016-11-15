@@ -1,5 +1,4 @@
 #Uses NYC DOIT's Gecoder API to retrieve the latitiude and longitude from an address
-###Need to add tryCatch
 
 library(RCurl)
 library(RJSONIO)
