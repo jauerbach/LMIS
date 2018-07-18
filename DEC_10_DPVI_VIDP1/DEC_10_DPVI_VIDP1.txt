@@ -1,0 +1,10 @@
+DP-1
+Profile of General Demographic Characteristics: 2010
+
+NOTE:  For information on confidentiality protection, nonsampling error, and definitions, see http://www.census.gov/prod/cen2010/doc/dpsfvi.pdf.
+
+X Not applicable.[1] Includes data for the American Indian and Alaska Native, Asian, Native Hawaiian and Other Pacific Islander, and Some Other Race populations.[2] In combination with one or more other races listed.  The following three numbers may add to more than the total population and the three percentages may add to more than 100 percent because individuals may report more than one race.[3] This category is composed of people whose origins are from Cuba, Spain, and Spanish-speaking Central or South American countries.  It also includes general origin responses such as "Latino" or "Hispanic."[4] "Spouse" represents spouse of the householder.  It does not reflect all spouses in a household.  Responses of "same-sex spouse" were edited during processing to "unmarried partner."[5] "Family households" consist of a householder and one or more other people related to the householder by birth, marriage, or adoption.  They do not include same-sex married couples even if the marriage was performed in an area issuing marriage certificates for same-sex couples.  Same-sex couple households are included in the family households category if there is at least one additional person related to the householder by birth or adoption.  Same-sex couple households with no relatives of the householder present are tabulated in nonfamily households.  "Nonfamily households" consist of people living alone and households which do not have any members related to the householder.		
+
+
+Source: U.S. Census Bureau, 2010 Census, U.S. Virgin Islands
+
